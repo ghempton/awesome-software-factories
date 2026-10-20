@@ -242,6 +242,7 @@ Run many agent sessions at once, each in its own worktree, and review their outp
 - [cmux (craigsc)](https://github.com/craigsc/cmux) - Bash tool that runs a fleet of Claude Code agents on the same repo, one worktree each. `Backends: Claude Code`
 - [cmux (manaflow)](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs built for multitasking across many agents.
 - [Code Conductor](https://github.com/ryanmac/code-conductor) - GitHub-native orchestration for parallel Claude Code sub-agents without merge conflicts. `Backends: Claude Code` `⚠️ unmaintained`
+- [Codealong](https://github.com/codealong/codealong) - Desktop app for macOS and Linux that finds every coding agent session on your machine, wherever it started, and shows them on one board by repo, worktree, branch and PR, with approvals and replies from a floating bar. `Backends: Claude Code, Codex, OpenCode, Antigravity, Cursor`
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and web command centre wrapping OpenCode sessions with projects, worktrees, and git integration.
 - [Codexia](https://github.com/milisp/codexia) - Desktop and headless workstation where long-lived agent "bots" with scoped permissions run in their own git worktrees, scheduled or on demand. `Backends: Claude Code, Codex, any ACP agent`
 - [codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator) - Delegates tasks to Codex agents over tmux, driven by a Claude Code orchestrator. `Backends: Codex, Claude Code`
